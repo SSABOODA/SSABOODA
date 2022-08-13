@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=10px&section=header&text=BONG`s GITHUB&fontSize=15px)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10px&section=header&text=BONG`s GITHUB&fontSize=15px)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SSABOODA)](https://github.com/anuraghazra/github-readme-stats)
 
