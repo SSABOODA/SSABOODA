@@ -9,7 +9,7 @@
 <br>
 
 <div>
-<h3> 🧷 Skiils </h3>
+<h3> 🧷 Technology Stack </h3>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-plastic&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0C4B33?style=flat-plastic&logo=Django&logoColor=white"/>
 <br>
@@ -23,10 +23,11 @@
 
 <h3>•••</h3>
 
-<p align="center">
+<p>
+
   <a href="https://ssabooda.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
-  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
-  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+  <a href="https://velog.io/@ssaboo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="mailto:ssaboo92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssaboo92@gmail.com"/></a>
 </p>
 
 <br>
