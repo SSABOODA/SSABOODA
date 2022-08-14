@@ -2,6 +2,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-plastic&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0C4B33?style=flat-plastic&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-191a19?style=flat-plastic&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-EC7211?style=flat-plastic&logo=AWS&logoColor=white"/>
 
 
