@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/MySQL-3E6E93?style=flat-plastic&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Github-191a19?style=flat-plastic&logo=github&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/AWS-EC7211?style=flat-plastic&logo=AWS&logoColor=white"/>
 
 </div>
