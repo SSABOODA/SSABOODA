@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=BONG&fontSize=50)
 
-[![BONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSABOODA)](https://github.com/SSABOODA/github-readme-stats)
+[![BONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSABOODA&show_icons=true)](https://github.com/SSABOODA/github-readme-stats)
 
 <div align=center>
 
