@@ -2,6 +2,7 @@
 
 [![BONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSABOODA&show_icons=true&theme=dracula)](https://github.com/SSABOODA/github-readme-stats)
 
+<h2 text-align=center>TITLE</h2
 <div align=center>
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-plastic&logo=python&logoColor=white"/>
