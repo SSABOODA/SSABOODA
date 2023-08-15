@@ -10,7 +10,7 @@
 
 <div>
 <h3> 🧷 Technology Stack </h3>
-<img src="https://img.shields.io/badge/Swift-3776ab?style=flat-plastic&logo=swift&logoColor=Orange"/>
+<img src="https://img.shields.io/badge/Swift-3776ab?style=flat-plastic&logo=swift&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-plastic&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0C4B33?style=flat-plastic&logo=Django&logoColor=white"/>
