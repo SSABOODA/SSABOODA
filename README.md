@@ -3,7 +3,7 @@
 
 <h3> 👋 반갑습니다. </h3>
 <p>
-🌱 I`m IOS Developer<br>
+🌱 I`m iOS Developer<br>
 </p>
 
 <br>
